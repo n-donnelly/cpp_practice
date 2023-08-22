@@ -1,0 +1,1 @@
+For VS Code to compile project, in tasks.json replace line "${file}" with a list of .cpp files or "${fileDirname}/**.cpp" for all .cpp files
